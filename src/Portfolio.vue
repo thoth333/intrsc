@@ -8,7 +8,7 @@
         <div class="flex items-center justify-between">
           <div class="flex items-center space-x-3">
             <img
-              src="../thoth-icon.png"
+              src="/thoth-icon.png"
               alt="Profile Picture"
               class="w-10 h-10 rounded-full"
             />
@@ -47,7 +47,7 @@
     <section class="py-20 px-6 bg-blue-50">
       <div class="max-w-6xl mx-auto text-center">
         <img
-          src="../thoth-icon.png"
+          src="/thoth-icon.png"
           alt="Profile Picture"
           class="w-32 h-32 rounded-full flex items-center justify-center mx-auto mb-8"
         />
@@ -110,7 +110,7 @@
             class="bg-white border border-gray-200 rounded-lg overflow-hidden hover:shadow-lg transition-shadow"
           >
             <img
-              src="../quaintimg.png"
+              src="/quaintimg.png"
               alt="QUAINT"
               class="w-full h-48 object-cover"
             />
@@ -154,7 +154,7 @@
             class="bg-white border border-gray-200 rounded-lg overflow-hidden hover:shadow-lg transition-shadow"
           >
             <img
-              src="../spimg.png"
+              src="/spimg.png"
               alt="Shortcut Puzzle"
               class="w-full h-48 object-cover"
             />
@@ -190,7 +190,7 @@
             class="bg-white border border-gray-200 rounded-lg overflow-hidden hover:shadow-lg transition-shadow"
           >
             <img
-              src="../kfimg.png"
+              src="/kfimg.png"
               alt="Komaba Festival"
               class="w-full h-48 object-cover"
             />
@@ -272,7 +272,7 @@
             class="bg-white border border-gray-200 rounded-lg overflow-hidden hover:shadow-lg transition-shadow"
           >
             <img
-              src="../lvimg.png"
+              src="/lvimg.png"
               alt="LINEverse"
               class="w-full h-48 object-cover"
             />
@@ -303,7 +303,7 @@
             class="bg-white border border-gray-200 rounded-lg overflow-hidden hover:shadow-lg transition-shadow"
           >
             <img
-              src="../scimg.png"
+              src="/scimg.png"
               alt="Simplified Clock"
               class="w-full h-48 object-cover"
             />
