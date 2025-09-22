@@ -105,7 +105,7 @@
         <h2 class="text-3xl font-bold text-gray-900 mb-12 text-center">
           Featured Project
         </h2>
-        <div class="w-1/3 mx-auto">
+        <div class="sm:w-1/1 md:w-2/3 lg:w-1/3 mx-auto">
           <div
             class="bg-white border border-gray-200 rounded-lg overflow-hidden hover:shadow-lg transition-shadow"
           >
